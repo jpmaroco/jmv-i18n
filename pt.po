@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-02-07 12:24+0000\n"
+"PO-Revision-Date: 2022-02-11 17:44+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt\n"
@@ -1321,7 +1321,7 @@ msgstr "Frequências"
 
 #: descriptives/results/frequencies.template.title
 msgid "Frequencies of $key"
-msgstr "Frequências de $Key"
+msgstr "Frequências de $key"
 
 #: descriptives/options/freq.title descriptives/ui[1][1]/freq.label
 msgid "Frequency tables"
